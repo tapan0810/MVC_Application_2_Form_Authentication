@@ -9,6 +9,7 @@ namespace MVC_Application_2_.Data
 {
     public class ApplicationDbContext:DbContext
     {
+
         public ApplicationDbContext():base("DefaultConnection")
         {
         }
