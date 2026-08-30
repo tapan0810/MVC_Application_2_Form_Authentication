@@ -7,6 +7,7 @@ using System.Web;
 
 namespace MVC_Application_2_.Helpers
 {
+
     public class PasswordHelper
     {
         public static string HashPassword(string password)
