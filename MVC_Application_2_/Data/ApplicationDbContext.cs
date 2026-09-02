@@ -8,7 +8,8 @@ using MVC_Application_2_.Models;
 
 namespace MVC_Application_2_.Data
 {
-    public class ApplicationDbContext:DbContext
+    public class
+ ApplicationDbContext:DbContext
     {
 
         public ApplicationDbContext():base("DefaultConnection")
