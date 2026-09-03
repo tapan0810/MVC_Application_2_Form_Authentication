@@ -5,7 +5,6 @@ using System.Web;
 using System.Data.Entity;
 using MVC_Application_2_.Models;
 
-
 namespace MVC_Application_2_.Data
 {
     public class
