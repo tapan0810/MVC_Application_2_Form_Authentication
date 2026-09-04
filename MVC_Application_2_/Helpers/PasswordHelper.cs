@@ -4,7 +4,6 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Web;
 
-
 namespace MVC_Application_2_.Helpers
 {
 
