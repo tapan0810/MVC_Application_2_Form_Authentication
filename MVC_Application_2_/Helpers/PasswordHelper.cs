@@ -13,6 +13,7 @@ namespace MVC_Application_2_.Helpers
         {
             byte[] salt = new byte[16];
 
+
             using (var rng = RandomNumberGenerator.Create())
             {
                 rng.GetBytes(salt);
